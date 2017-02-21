@@ -2,7 +2,7 @@
 
 To-Do Lists can help you get and stay on top of important projects and piles of tasks or decisions.
 
-This To-Do List is an interactive console program that allows users to organize the tasks on their to-do list in one easy to use application. Users are able to do simple actions like add, remove, and complete tasks. They can also undo and redo their actions, and save their tasks to a file in order to load them during subsequent application launches.
+To-Do List is an interactive console program that allows users to organize the tasks on their to-do list in one easy to use application. Users are able to do simple actions like add, remove, and complete tasks. They can also undo and redo their actions, and save their tasks to a file in order to load them during subsequent application launches.
 
 To compile and execute the code, you must first reside in the directory that source code files are in. Once you are in the correct directory, run the code by typing the following command at the terminal prompt:
 
